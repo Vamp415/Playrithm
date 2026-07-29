@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://playrithm.thinkpixel.org/sitemap.xml

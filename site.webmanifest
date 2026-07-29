@@ -1,0 +1,39 @@
+{
+  "name": "Playrithm",
+  "short_name": "Playrithm",
+  "description": "Play free online browser games including Snake, Tetris, Bounce, Pacman, Spider Solitaire, Puzzle and Defender.",
+  "theme_color": "#000000",
+  "background_color": "#282828",
+  "display": "standalone",
+  "orientation": "any",
+  "scope": "/",
+  "start_url": "/",
+  "id": "https://playrithm.thinkpixel.org/",
+  "icons": [
+    {
+      "src": "assets/playrithm-half-logo.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/playrithm-half-logo.png",
+      "sizes": "32x32",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/playrithm-half-logo.png",
+      "sizes": "16x16",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "assets/playrithm-full-logo.png",
+      "sizes": "1200x630",
+      "type": "image/png"
+    }
+  ]
+}
